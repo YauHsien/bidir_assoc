@@ -11,7 +11,7 @@ a0 = %A{hello: b0}
 b0 = %B{world: a0}
 ```
 
-You found that it does not work. Do not frustrated. Do not give up using
+You found that it does not work. Do not be frustrated. Do not give up using
 functional programming.
 
 And this project tends to give a better approach on functional programming.
